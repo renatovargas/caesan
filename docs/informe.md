@@ -1,9 +1,17 @@
 ---
-date: "2016-02-02T10:43:08-06:00"
-draft: true
 title: "Cuenta Ambiental y Económica para la Seguridad Alimentaria y Nutricional"
+author: "Renato Vargas"
+css: css/main.css
 
 ---
+
+<!-- date: "2016-02-02T10:43:08-06:00" -->
+<!--  
+
+## PANDOC syntax for the creation of the html file and docx
+pandoc -f markdown -t html5 --toc -s ./docs/informe.md -o ./gh-pages/index.html && pandoc -f markdown -t docx --toc -s ./docs/informe.md -o ./gh-pages/descargas/caesan.docx
+
+-->
 
 ## Introducción
 
@@ -32,20 +40,45 @@ La CAESAN no modifica la estructura del Sistema de Cuentas Nacionales, sino la c
 
 Un marco como la CAESAN aquí propuesta, además de mostrar las relaciones entre economía y la producción de alimentos, tiene la posibilidad de servir de marco de ordenamiento de estadísticas de Seguridad Alimentaria. Su naturaleza sistémica impulsa la adopción de estándares en el manejo de información que facilitan la comparabilidad internacional y a través del tiempo. El uso de reglas contables permite también la comparación de diferentes fuentes de información para detectar brechas que sea necesario llenar con algún evento de generación estadística.
 
-Estas ventajas permiten a los diseñadores y evaluadores de política pública, entes reguladores y analistas desarrollar indicadores y modelos más precisos para tratar las interrogantes de la Seguridad Alimentaria Nacional.
+Estas ventajas permiten a los diseñadores y quiénes evalúan política pública, entes reguladores, así como analistas desarrollar indicadores y modelos más precisos para tratar las interrogantes de la Seguridad Alimentaria Nacional.
 
-### Marco de compilación
+## Marco de compilación
+
+### Estructura básica
 
 Las cuentas de la CAESAN se dividen en dos: cuentas de flujos, las cuales muestran cómo se mueven los diferentes insumos y productos relacionados con la seguridad alimentaria y cuentas de activos, las cuales explican cómo los activos que permiten la producción, distribución y aprovechamiento de alimentos cambian en calidad o cantidad, a raíz de su uso en las diferentes etapas de la cadena alimentaria.
 
 **[Figura 1 – Esquema de cuentas de flujos, (cuadros de oferta y utilización)]**
 
+Las cuentas de flujos aseguran que la suma de todos los productos relacionados con la seguridad alimentaria producidos sea consistente con la cantidad de productos consumidos durante un período de tiempo. Esto facilita el análisis de factores de la demanda, como el incremento poblacional o la mejora de los medios de vida, que puedan impulsar cambios en la producción (FAO, 2015).
+
+Tradicionalmente, el período de análisis ha correspondido a un año, pero en años recientes el Sistema de Cuentas Nacionales, con el cual se mide el desempeño económico, ha incursionado en el desarrollo de cuentas trimestrales. Estas tienen un alcance más limitado en cuanto a desagregación de actividades económicas, pero muestran gran potencial para dar signos de alerta temprana respecto de tendencias macroeconómicas que puedan tener impacto en la Seguridad Alimentaria en el corto y mediano plazo.
+
 **[Figura 2 – Esquema de cuentas de activos]**
 
-De manera transversal, existen dominios de información relevante para la CAESAN. Esto último confiere a la cuenta un carácter de resumen especializado en información económica y ambiental enfocado en las etapas de la cadena alimentaria. La siguiente tabla incluye los dominios de información relevantes:
+### Dominios de información
 
-**[Tabla 1 – Dominios de información relevantes para la seguridad alimentaria.**
+De manera transversal, existen dominios de información relevante para la CAESAN. Esto último confiere a la cuenta un carácter de resumen especializado en información económica y de volúmenes físicos enfocada en las etapas de la cadena alimentaria. La siguiente tabla incluye los dominios de información relevantes:
 
+* **Productos agrícolas y activos relacionados.**
+    * Flujos físicos para cultivos.
+    * Flujos físicos para ganado.
+    * Activos de cultivos.
+    * Activos de ganado.
+* **Recursos hídricos y energéticos.**
+    * Flujos de abstracción de agua.
+    * Flujos de usos de energía.
+    * Activos hidrológicos.
+* **Fertilizantes y nutrientes.**
+    * Flujo de fertilizantes.
+    * Balances de nitrógeno y fósforo.
+* **Tierra.**
+    * Uso de la tierra.
+    * Activos del suelo (experimental).
+* **Otros datos económicos.**
+    * Tablas de oferta y utilización monetaria de productos alimentarios.
+    * Cuentas de producción e ingreso extendidas para sectores involucrados con la seguridad alimentaria.
+  
 
 
 
