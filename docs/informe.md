@@ -10,7 +10,7 @@ css: css/main.css
 
 ## PANDOC syntax for the creation of the html file and docx
 pandoc -f markdown -t html5 --toc -s ./docs/informe.md -o ./gh-pages/index.html && pandoc -f markdown -t docx --toc -s ./docs/informe.md -o ./gh-pages/descargas/caesan.docx
-
+This is new.
 -->
 
 ## Introducción
@@ -78,8 +78,3 @@ De manera transversal, existen dominios de información relevante para la CAESAN
 * **Otros datos económicos.**
     * Tablas de oferta y utilización monetaria de productos alimentarios.
     * Cuentas de producción e ingreso extendidas para sectores involucrados con la seguridad alimentaria.
-  
-
-
-
-
