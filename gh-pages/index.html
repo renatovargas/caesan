@@ -7,10 +7,10 @@
   <meta name="author" content="Renato Vargas">
   <title>Cuenta Ambiental y Económica para la Seguridad Alimentaria y Nutricional</title>
   <style type="text/css">code{white-space: pre;}</style>
-  <link rel="stylesheet" href="css/main.css">
   <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
+  <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 <header>
@@ -36,30 +36,33 @@
 
 ## PANDOC syntax for the creation of the html file and docx
 pandoc -f markdown -t html5 --toc -s ./docs/informe.md -o ./gh-pages/index.html && pandoc -f markdown -t docx --toc -s ./docs/informe.md -o ./gh-pages/descargas/caesan.docx
-
+This is new.
 -->
-<h2 id="introducción">Introducción</h2>
-<h2 id="objetivos-y-definición-de-la-cuenta">Objetivos y definición de la cuenta</h2>
-<h3 id="general">General</h3>
+
+<h2 id="introducción"><a href="#introducción">Introducción</a></h2>
+<h2 id="objetivos-y-definición-de-la-cuenta"><a href="#objetivos-y-definición-de-la-cuenta">Objetivos y definición de la cuenta</a></h2>
+<h3 id="general"><a href="#general">General</a></h3>
 <p>Explicar las relaciones recíprocas entre la producción de alimentos, su consumo y el resto de la economía.</p>
-<h3 id="específicos">Específicos</h3>
+<h3 id="específicos"><a href="#específicos">Específicos</a></h3>
 <ul>
 <li>Determinar la disponibilidad de activos que desempeñan un papel en la producción, aprovechamiento o procesamiento de alimentos a nivel nacional.</li>
 <li>Mostrar a través del análisis de flujos, los niveles de producción de los diferentes bienes y servicios alimentarios y su consumo por parte de los hogares guatemaltecos.</li>
 <li>Reflejar el deterioro ambiental causado por la producción y consumo de alimentos a nivel nacional.</li>
 </ul>
-<h3 id="definición">Definición</h3>
-<p>La Cuenta Ambiental y Económica para la Seguridad Alimentaria y Nutricional (CAESAN), es un marco estadístico de naturaleza macroeconómica que permite la interrelación de datos que describen cuantitativamente elementos de las etapas de la cadena alimentaria. Su fin último es determinar de dónde provienen los alimentos que consumen los hogares guatemaltecos, qué bienes alimenticios son importantes, cómo se distribuyen los mismos entre el consumo final y como insumos en procesos productivos, así como los impactos al ambiente que puedan derivarse de su producción.</p>
+<h3 id="definición"><a href="#definición">Definición</a></h3>
+<p>La Cuenta Ambiental y Económica para la Seguridad Alimentaria y Nutricional (CAESAN), es un marco estadístico de naturaleza macroeconómica que permite la interrelación de datos que describen cuantitativamente elementos de la cadena alimentaria. Su fin último es determinar de dónde provienen los alimentos que consumen los hogares guatemaltecos, qué bienes alimenticios son importantes, cómo se distribuyen los mismos entre el consumo final y como insumos en procesos productivos, así como los impactos al ambiente que puedan derivarse de su producción.</p>
 <p>Dicho marco es una extensión del Sistema de Cuentas Nacionales, con el cual se mide el desempeño de la economía con medidas como el Producto Interno Bruto, entre otras. Esta extensión de la contabilidad nacional básica se hace siguiendo los preceptos de la familia de manuales del Sistema de Contabilidad Ambiental y Económica (SEEA), estándar estadístico propuesto por Naciones Unidas y otros, y toma elementos conceptuales propios de la seguridad alimentaria del Sistema de Contabilidad Ambiental y Económica para la Agricultura, Silvicultura y Pesca (SEEA Agri), manual específico comisionado por la Organización de las Naciones Unidas para la Alimentación y Agricultura (FAO).</p>
 <p>La CAESAN no modifica la estructura del Sistema de Cuentas Nacionales, sino la complementa de manera que sus definiciones y clasificaciones sean compatibles. De esa manera, se describen aspectos que son ajenos a la medición económica por su naturaleza, como la contribución de la producción alimentaria a la economía y a el consumo final de los hogares.</p>
 <p>Un marco como la CAESAN aquí propuesta, además de mostrar las relaciones entre economía y la producción de alimentos, tiene la posibilidad de servir de marco de ordenamiento de estadísticas de Seguridad Alimentaria. Su naturaleza sistémica impulsa la adopción de estándares en el manejo de información que facilitan la comparabilidad internacional y a través del tiempo. El uso de reglas contables permite también la comparación de diferentes fuentes de información para detectar brechas que sea necesario llenar con algún evento de generación estadística.</p>
-<p>Estas ventajas permiten a los diseñadores y evaluadores de política pública, entes reguladores y analistas desarrollar indicadores y modelos más precisos para tratar las interrogantes de la Seguridad Alimentaria Nacional.</p>
-<h2 id="marco-de-compilación">Marco de compilación</h2>
-<h3 id="estructura-básica">Estructura básica</h3>
+<p>Estas ventajas permiten a los diseñadores y quiénes evalúan política pública, entes reguladores, así como analistas desarrollar indicadores y modelos más precisos para tratar las interrogantes de la Seguridad Alimentaria Nacional.</p>
+<h2 id="marco-de-compilación"><a href="#marco-de-compilación">Marco de compilación</a></h2>
+<h3 id="estructura-básica"><a href="#estructura-básica">Estructura básica</a></h3>
 <p>Las cuentas de la CAESAN se dividen en dos: cuentas de flujos, las cuales muestran cómo se mueven los diferentes insumos y productos relacionados con la seguridad alimentaria y cuentas de activos, las cuales explican cómo los activos que permiten la producción, distribución y aprovechamiento de alimentos cambian en calidad o cantidad, a raíz de su uso en las diferentes etapas de la cadena alimentaria.</p>
 <p><strong>[Figura 1 – Esquema de cuentas de flujos, (cuadros de oferta y utilización)]</strong></p>
+<p>Las cuentas de flujos aseguran que la suma de todos los productos relacionados con la seguridad alimentaria producidos sea consistente con la cantidad de productos consumidos durante un período de tiempo. Esto facilita el análisis de factores de la demanda, como el incremento poblacional o la mejora de los medios de vida, que puedan impulsar cambios en la producción (FAO, 2015).</p>
+<p>Tradicionalmente, el período de análisis ha correspondido a un año, pero en años recientes el Sistema de Cuentas Nacionales, con el cual se mide el desempeño económico, ha incursionado en el desarrollo de cuentas trimestrales. Estas tienen un alcance más limitado en cuanto a desagregación de actividades económicas, pero muestran gran potencial para dar signos de alerta temprana respecto de tendencias macroeconómicas que puedan tener impacto en la Seguridad Alimentaria en el corto y mediano plazo.</p>
 <p><strong>[Figura 2 – Esquema de cuentas de activos]</strong></p>
-<h3 id="dominios-de-información">Dominios de información</h3>
+<h3 id="dominios-de-información"><a href="#dominios-de-información">Dominios de información</a></h3>
 <p>De manera transversal, existen dominios de información relevante para la CAESAN. Esto último confiere a la cuenta un carácter de resumen especializado en información económica y de volúmenes físicos enfocada en las etapas de la cadena alimentaria. La siguiente tabla incluye los dominios de información relevantes:</p>
 <ul>
 <li><strong>Productos agrícolas y activos relacionados.</strong>
