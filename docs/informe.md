@@ -146,8 +146,17 @@ El **Cuadro 3** muestra la producción de alimentos preparados para el año 2010
 
 Seguidamente, vemos la importancia relativa (en términos de volúmen) de los jugos de frutas (52,897 tm), otros productos de panadería y repostería (44,885 tm), las legumbres preparadas o en conserva (35,039 tm) y las compotas, jaleas de frutas, purés y pastas de frutas (31,592 tm). Cabe notar que en la penúltima categoría se encuentran los frijoles volteados en lata y otras presentaciones.
 
+Pero más importante que la entender la oferta de alimentos para cuestiones de seguridad alimentaria y nutricional, es la comprensión de la utilización de los mismos dentro de la economía, y en este sentido, los datos disponibles nos permiten ver que en términos de volumen los hogares consumen 23% de las legumbres preparadas, mientras que el 68% se destina a la exportación, que los hogares también consumen el 73% de las frutas en conserva disponibles en el país. También resulta relevante que del arroz sin cáscara, es decir el ya procesado, solamente el el 36% va a los hogares, mientras un 62% se destina a la exportación. Finalmente, entre los procesados también ocupan un lugar importante para los hogares las harinas de trigo y las de otro tipo, producto de la molinería, pues en ellos se consume el 20% y el 60% de la disponibilidad nacional, respectivamente.
+
+Finalmente, entre los datos de productos alimenticios, resulta extraño y ciertamente es de esperar que esto constituya un error, que varios productos que tienen mercado local se destinen en su totalidad a la exportación, como es el caso del aceite vegetal, la margarina y preparados análogos, los preparados utilizados para la alimentación de animales, el pan, otros productos de panadería, el azúcar de caña sin refinar y la melaza.
 
 ### Recursos hídricos y energéticos
+
+Asegurar la producción de alimentos también requiere que se asegure la disponibilidad en las diferentes etapas de crecimiento de los cultivos. El **Cuadro 5** Muestra los diferentes requerimientos tanto de tierra, como de las diferentes formas de proveer agua a los cultivos. Estos datos provienen de la cuenta de agua (ver Ine 2012, Banguat/Url-Iarna, 2009a). Entre los usos de agua, se hace la importante distinción entre el riego y la agricultura de secano. En el primero de los casos, los productores deben asegurar la disponibilidad de agua de suficiente calidad para la producción del cultivo. En el caso de la agricultura de secano, el productor depende de la disponibilidad de agua de lluvia, el ciclo hidrológico y la variabilidad climática.
+
+De esto es importante notar que la producción de maíz, un cultivo que vimos anteriormente que es sumamente importante en términos volumétricos, es el que mayor cantidad de agua utiliza para su producción (4.8 millones de m<sup>3</sup>). 
+
+ 
 
 
 ### Fertilizantes y nutrientes
@@ -162,5 +171,10 @@ Seguidamente, vemos la importancia relativa (en términos de volúmen) de los ju
 ## Discusión y conclusiones
 
 Cabe notar que en la penúltima categoría se encuentran los frijoles volteados en lata y otras presentaciones, los cuales cobran importancia en las cocinas urbanas guatemaltecas.
+
+Entre los datos, resulta extraño y ciertamente es de esperar que esto constituya un error, que la totalidad de varios productos que tienen mercado local se destine a la exportación, como es el caso del aceite vegetal, la margarina y preparados análogos, los preparados utilizados para la alimentación de animales, el pan, otros productos de panadería, el azúcar de caña sin refinar y la melaza.
+
+La producción de maíz se realiza completamente dependiendo del agua de lluvia y de los aspectos negativos que pueda acarrear la variabilidad climática. El depender exclusivamente del agua de lluvia, le confiere a la cultura de producción de maíz un elemento importante de riesgo. Esto es importante contrastarlo con el hecho que en términos volumétricos, es el mayor cultivo del país, después de la producción agroindustrial de caña de azúcar y banano.
+
 
 ## Bibliografía
