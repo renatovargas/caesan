@@ -130,16 +130,21 @@ En cuanto a la utilización de estos mismos productos, agrupamos a las actividad
 
 Una de las razones por las cuales se divide a los usuarios entre insumos como semilla e insumos como alimento para animales proviene de la preocupación que a nivel mundial se utiliza grandes extensiones de tierra para la producción de granos y otros productos agrícolas que sirven de alimento al ganado bovino y porcino necesario para la producción de carne.
 
-El Cuadro 2, muestra que según los datos disponibles esta no es una preocupación para Guatemala, pues los grandes usuarios de la producción agrícola son las industrias, los hogares y el resto del mundo en la forma de exportaciones. Sería posible pensar que los granos fueran utlizados como insumos por la industria de procesamiento de alimentos para convertirse en concentrado para animales --un producto que no aparece en el Cuadro 2 sino más adelante en **el apartado relativo a los alimentos preparados**--, pero como se verá más adelante, los volúmenes de concentrado que muestran los datos no son relevantes.
+El Cuadro 2, muestra que según los datos disponibles esta no es una preocupación para Guatemala, pues los grandes usuarios de la producción agrícola son las industrias, los hogares y el resto del mundo en la forma de exportaciones. Sería posible pensar que los granos fueran utilizados como insumos por la industria de procesamiento de alimentos para convertirse en concentrado para animales --un producto que no aparece en el Cuadro 2 sino más adelante en **el apartado relativo a los alimentos preparados**--, pero como se verá más adelante, los volúmenes de concentrado que muestran los datos no son relevantes.
 
 No obstante, en el caso de la soya y el rubro referente a otras plantas vivas, flores y semillas, aunque los datos no revelan un consumo para alimento,sí se destinan fracciones importantes como semilla (40% y 38% de todos los usos, respectivamente). 
 
 Aunque el Cuadro 2 es ilustrativo y los datos importantes, nos parece interesante incluir a través de la **Figura 2** una versión que permite apreciar de manera comparativa como la disponibilidad de cada cultivo a nivel nacional se distribuye entre las categorías de usuarios que describimos anteriormente.
 
+[**Figura 2. Estructura porcentual de la utilización por cultivo - Aproximadamente aquí**]
+
 En cuanto a los productos cuyos volúmenes son mayores, es interesante notar la participación de la industria de procesamiento de alimentos en su utilización a nivel nacional. Por ejemplo, en el caso del maíz, 20% del volumen utilizado en el país se destina a esta industria. Esto es congruente con el 80% (ajustado para extraer la variación de existencias negativa) que consumen los hogares. Esto contrasta con el 99% de las disponibilidades de arroz con cáscara y trigo que son utilizados casi exclusivamente por la industria de procesamiento de alimentos. Esto no quiere decir que los hogares no consuman estos productos. Simplemente quiere decir que lo consumen de forma procesada en diferentes productos de la industria alimenticia, como por ejemplo el arroz blanco precocido o atoles y bebidas deshidratadas de preparación instantánea. Por este motivo, es bastante obvio que casi la totalidad de la caña de azúcar sea utilizada como insumo por la industria de procesamiento de alimentos para la producción de azúcar.
 
-Los hogares son los grandes consumidores de muchos más de los productos cultivados. 
+Aparte de las excepciones mencionadas, los hogares son los grandes consumidores de muchos de los productos cultivados, lo cual es congruente con la cultura de mercados tradicionales del país. Por ejemplo, consumen e 95% del frijol, el 88% de la papa, el 97% de otras raíces y tubérculos, el 99% de hierbas frescas culinarias, el 91% de otras verduras y el 67% de las frutas, entre otros.
 
+El **Cuadro 3** muestra la producción de alimentos preparados para el año 2010. En términos volumétricos, es evidente que el azúcar de caña sin refinar ocupa el lugar preponderante en la lista. No obstante, es imposible obviar los volúmenes de productos procesados como el aceite vegetal (186,415 tm), las harinas y otras grasas de origen vegetal y animal (368,656 tm), así como otras harinas y productos de la molinería (114,942 tm).
+
+Seguidamente, vemos la importancia relativa (en términos de volúmen) de los jugos de frutas (52,897 tm), otros productos de panadería y repostería (44,885 tm), las legumbres preparadas o en conserva (35,039 tm) y las compotas, jaleas de frutas, purés y pastas de frutas (31,592 tm). Cabe notar que en la penúltima categoría se encuentran los frijoles volteados en lata y otras presentaciones.
 
 
 ### Recursos hídricos y energéticos
@@ -156,6 +161,6 @@ Los hogares son los grandes consumidores de muchos más de los productos cultiva
 
 ## Discusión y conclusiones
 
-
+Cabe notar que en la penúltima categoría se encuentran los frijoles volteados en lata y otras presentaciones, los cuales cobran importancia en las cocinas urbanas guatemaltecas.
 
 ## Bibliografía
