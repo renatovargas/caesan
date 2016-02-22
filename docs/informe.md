@@ -99,7 +99,7 @@ De manera transversal, existen dominios de información relevante para la CAESAN
 
 **Productos agrícolas y activos relacionados:** El flujo para cultivos registra el suministro y el uso de productos en unidades físicas.
 
-### Presentaciones combinadas
+<!--### Presentaciones combinadas
 
 Una de las ventajas de un sistema integrado de información macroeconómica es la posibilidad del desarrollo de presentaciones combinadas en las cuales puede coexistir información de diferentes ámbitos. Esto es particularmente importante para apreciar los diferentes impactos naturales y sociales que ocurren de manera conectada con el desempeño económico, pero que no son evidentes en la formas en que se evalúa el mismo. De esta forma, existe una variedad de temas que se pueden analizar para encontrar contrastes relevantes para la política pública.
 
@@ -111,6 +111,7 @@ Dada la consistencia entre reglas contables, definiciones y clasificaciones est�
 
 Estas combinaciones son sugerencias las cuales pueden ser expandidas por las necesidades de política pública y disponibilidad de información relevante o valiosa para cierto tópico particular.
 
+-->
 
 ## Resultados preliminares
 
@@ -178,6 +179,32 @@ Más relevante, resulta el hecho que los hogares consumen el 40% de la energía 
 
 ### Fertilizantes y nutrientes
 
+En el caso de los fertilizantes, el manual del SEEA Agri (FAO 2015) propone la necesidad de llevar un registro de los mismos porque son insumos fundamentales en la producción agrícolas acutual y su uso tiene implicaciones económicas importantes. Saber más sobre estos usos permite evaluar de mejor manera los méritos de las prácticas de producción que no involucran fertilizantes y pesticidas manufacturados como la producción orgánica. 
+
+Es interesante que se encaminen esfuerzos para el desarrollo de estos cuadros en un futuro, pues actualmente se cuenta con información agregada proveniente de estimaciones de FAO. El indicador utilizado de consumo de fertilizantes utiliza la siguiente definición:
+
+  "El consumo de fertilizantes (100 gramos por hectárea de tierra cultivable) mide la cantidad de elementos nutritivos de las plantas por unidad de tierra cultivable. Los productos fertilizantes abarcan los fertilizantes nitrogenados, el abono potásico y los fertilizantes fosfatados (por ejemplo, la fosforita molida). No se incluyen los nutrientes tradicionales (abono animal y vegetal). Con el fin de difundir los datos, la FAO ha adoptado el concepto de año civil (enero a diciembre). Algunos países compilan datos de fertilizantes según el año civil, mientras que otros lo hacen de acuerdo con el año dividido. La tierra cultivable incluye aquellos terrenos definidos por la FAO como afectados a cultivos temporales (las zonas de doble cosecha se cuentan una sola vez), los prados temporales para segar o para pasto, las tierras cultivadas como huertos comerciales o domésticos, y las tierras temporalmente en barbecho. Se excluyen las tierras abandonadas a causa del cultivo migratorio." (FAO 2016)
+  
+El cuadro 8 no obedece a los propuestos por la cuenta, pero muestra la evolución del indicador mencionado arriba durante el periodo 2002-2013. La tendencia, aunque baja ligeramente del año 2002 al 2003, ha sido creciente, alcanzando los 189 kilogramos por hectárea en 2010 y llegando a 256 kg/ha en 2013.
+
+[**Cuadro 8. Consumo de fertilizantes - Aproximadamente aquí**]
+
+En cuanto a nutrientes, además de uso e información de desperdicio, los datos del SCAE de Guatemala (Ine, 2012) no ofrecen información relevante. En ese caso, el esfuerzo más importante lo constituye la hoja de balance de alimentos (HBA) elaborada por el Instituto Nacional de Estadística para el año 2013. Nos abstenemos de reproducirla aquí, pues un importante trabajo es necesario para hacer compatible su información con la del Sistema de Cuentas Nacionales y así derivar utilidad adicional a la que el instrumento ya provee por si sola. No obstante, es importante mencionar que la HBA provee información sobre insumos, disponibilidad interna; pérdidas, mermas y desperdicios; utilización interna; alimento disponible por año en toneladas métricas; y finalmente suministro de alimentos y nutrientes por habitantes para:
+
+1.  cereales;
+2.  leguminosas;
+3.  azúcares;
+4.  tubérculos y raíces;
+5.  hortalizas;
+6.  frutas;
+7.  carnes;
+8.  huevos;
+9.  pescado y mariscos;
+10. productos lácteos;
+11. aceites y grasas; y
+12. alimentos gratificantes.
+
+La figura 3 muestra la evolución de la disponibilidad de calorías per cápita diarias provenientes de fuentes vegetales y fuentes animales. Muestra que a nivel nacional durante el periodo 2005-2013 los guatemaltecos obtuvieron un 87% de sus calorías de fuente vegetal y un 13% de fuente animal, en promedio, con un total de 2452 y 373 calorías per cápita diarias de la primera y segunda fuente, respectivamente.
 
 
 ### Otros datos económicos
@@ -190,6 +217,9 @@ En cuanto a la utilización, el cuadro 10 muestra el destino en forma de valores
 
 [**Cuadro 10. Utilización total en términos monetarios - Aproximadamente aquí**]
 
+Respecto de otros indicadores económicos, el cuadro 11 muestra las cuentas de producción e ingreso extendido para las actividades agropecuarias y el resto de la economía. En él vemos las categorías "impuestos menos subsidios" que representa el flujo monetario hacia el gobierno por concepto de impuestos; el "excedente de explotación neto" que son el agregado de las utilidades de todos los propietarios de la producción después de pagar impuestos sobre ingresos; el "ingreso mixto" que es aquel que generan los trabajadores por cuenta propia y que no puede diferenciarse entre lo que gana la unidad productiva y quien es su dueño pero la trabaja él mismo; la "compensación de los empleados" que se refiere a los sueldos y salarios pagados en la economía y el "valor agregado" que es la riqueza adicional generada en el año por cada una de las actividades económicas. La suma de los valores agregados de la economía, después de unos ajustes, equivale al Producto Interno Bruto.
+
+[**Cuadro 11. Cuentas de producción e ingreso extendidas - Aproximadamente aquí**]
 
 ## Discusión y conclusiones
 
