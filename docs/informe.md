@@ -223,6 +223,14 @@ Respecto de otros indicadores económicos, el cuadro 11 muestra las cuentas de p
 
 ## Discusión y conclusiones
 
+En el presente documento se describe una propuesta para un marco de compilación de información y análisis macroeconómico enfocado en el tema de la Seguridad Alimentaria y Nutricional. El mismo toma conceptos y definiciones de la Contabilidad Nacional, la Contabilidad Ambiental y Económica integrada, así como de la Contabilidad Ambiental y Económica para Agricultura, Silvicultura y Pesca propuestos por Naciones Unidas, FAO y otros.
+
+Además con la información existente en los sistemas ya implementados por Guatemala, se toma inventario de los alcances posibles en este tema y se describen interesantes hallazgos preliminares.
+
+La CAESAN es un instrumento para evaluar la disponibilidad total de ciertos alimentos e insumos a nivel nacional y aunque la literatura económica afirma que en general en los países no existe un problema de disponibilidad sino de distribución de los alimentos, siempre es ilustrativo para la política pública conocer las magnitudes que se mueven entre la oferta y la utilización tanto intermedia como final de los alimentos. Además, es ilustrativo entender la distribución de ciertos alimentos entre los que se consumen directamente y aquellos que tienen importantes componentes de procesamiento industrial.
+
+**(...)**
+
 Cabe notar que en la penúltima categoría se encuentran los frijoles volteados en lata y otras presentaciones, los cuales cobran importancia en las cocinas urbanas guatemaltecas.
 
 Entre los datos de productos alimenticios, resulta extraño y ciertamente es de esperar que esto constituya un error de estimación, que varios productos que tienen mercado local se destinen en su totalidad a la exportación, como es el caso del aceite vegetal, la margarina y preparados análogos, los preparados utilizados para la alimentación de animales, el pan, otros productos de panadería, el azúcar de caña sin refinar y la melaza.
