@@ -15,8 +15,19 @@ This is new.
 
 ## Introducción
 
-( Describir estructura de paper "Economics of Food Security: Selected Issues")
+Aquí proponemos un marco de análisis macroeconómico para el estudio de la Seguridad Alimentaria a nivel nacional, adaptado del Sistema de Contabilidad Ambiental y Económica para la Agricultura, Silvicultura y Pesca (FAO, 2015).
 
+Según el Comité de Seguridad Alimentaria Mundial (2012):
+
+  Existe seguridad alimentaria y nutricional cuando todas las personas tienen en todo momento acceso físico, social y económico a alimentos inocuos, cuyo consumo es suficiente en términos de cantidad y calidad para satisfacer sus necesidades y preferencias alimentarias, y se sustenta en un marco de saneamiento, servicios sanitarios y cuidados adecuados que les permiten llevar una vida activa y sana.
+  
+Esto es congruente con un enfoque de los medios de vida sostenibles en el análisis de la seguridad alimentaria y nutricional. No obstante, existen enfoques complementarios que pueden abstraerse de algunas dimensiones del sistema de seguridad alimentaria para entender mejor algún aspecto del mismo. Por ello existen el enfoque basado en las necesidades básicas, el enfoque basado en los ingresos y el enfoque basado en la disponibilidad de alimentos (Iarna-Url, Iica y McGill, 2015).
+
+El marco aquí propuesto se ubica bien en este último enfoque de disponibilidad y, aunque no profundiza en la distribución de ingreso de los hogares, sí ofrece valores agregados de sus niveles de gasto global por el acceso a alimentos.
+
+Puede pensarse que la necesidad de un marco que trata la disponibilidad nacional de alimentos se hace innecesaria frente a los hallazgos de la literatura económica que afirman que los grupos países que exhiben la niveles más severos de inseguridad alimentaria son aquellos con altos niveles de pobreza, pero con superávit considerable de alimentos (Saravia-Matus, Gomez y Mary, 2012), pero existen beneficios de los marcos analíticos macroeconómicos extendidos que justifican su compilación.
+
+Por una parte, el 
 
 ## Objetivos y definición de la cuenta
 
@@ -227,7 +238,7 @@ En el presente documento se describe una propuesta para un marco de compilación
 
 Además con la información existente en los sistemas ya implementados por Guatemala, se toma inventario de los alcances posibles en este tema y se describen interesantes hallazgos preliminares.
 
-La CAESAN es un instrumento para evaluar la disponibilidad total de ciertos alimentos e insumos a nivel nacional y aunque la literatura económica afirma que en general en los países no existe un problema de disponibilidad sino de distribución de los alimentos, siempre es ilustrativo para la política pública conocer las magnitudes que se mueven entre la oferta y la utilización tanto intermedia como final de los alimentos. Además, es ilustrativo entender la distribución de ciertos alimentos entre los que se consumen directamente y aquellos que tienen importantes componentes de procesamiento industrial.
+La CAESAN es un instrumento para evaluar la disponibilidad total de ciertos alimentos e insumos a nivel nacional y, aunque la literatura económica afirma que en general en los países no existe un problema de disponibilidad sino de distribución de los alimentos, siempre es ilustrativo para la política pública conocer las magnitudes que se mueven entre la oferta y la utilización tanto intermedia como final de los alimentos. Además, es ilustrativo entender la distribución de ciertos alimentos entre los que se consumen directamente y aquellos que tienen importantes componentes de procesamiento industrial con el fin de diseñar mejores políticas públicas.
 
 **(...)**
 
