@@ -15,19 +15,19 @@ This is new.
 
 ## Introducción
 
-Aquí proponemos un marco de análisis macroeconómico para el estudio de la Seguridad Alimentaria a nivel nacional, adaptado del Sistema de Contabilidad Ambiental y Económica para la Agricultura, Silvicultura y Pesca (FAO, 2015).
+En este documento proponemos un marco de análisis macroeconómico para el estudio de la Seguridad Alimentaria a nivel nacional, el cual toma elementos del Sistema de Cuentas Nacionales (Banguat, 2009; 2016), el Sistema de Contabilidad Ambiental y Económica (Ine, 2013), del Sistema de Contabilidad Ambiental y Económica para la Agricultura, Silvicultura y Pesca (FAO, 2015) y de la experiencia de una década en contabilidad macroeconómica extendida del Instituto de Investigación y Proyección sobre Ambiente Natural y Sociedad (Iarna) de la Universidad Rafael Landívar.
 
-Según el Comité de Seguridad Alimentaria Mundial (2012):
+Según el Comité de Seguridad Alimentaria Mundial (2012),
 
-  Existe seguridad alimentaria y nutricional cuando todas las personas tienen en todo momento acceso físico, social y económico a alimentos inocuos, cuyo consumo es suficiente en términos de cantidad y calidad para satisfacer sus necesidades y preferencias alimentarias, y se sustenta en un marco de saneamiento, servicios sanitarios y cuidados adecuados que les permiten llevar una vida activa y sana.
+  [e]xiste seguridad alimentaria y nutricional cuando todas las personas tienen en todo momento acceso físico, social y económico a alimentos inocuos, cuyo consumo es suficiente en términos de cantidad y calidad para satisfacer sus necesidades y preferencias alimentarias, y se sustenta en un marco de saneamiento, servicios sanitarios y cuidados adecuados que les permiten llevar una vida activa y sana.
   
-Esto es congruente con un enfoque de los medios de vida sostenibles en el análisis de la seguridad alimentaria y nutricional. No obstante, existen enfoques complementarios que pueden abstraerse de algunas dimensiones del sistema de seguridad alimentaria para entender mejor algún aspecto del mismo. Por ello existen el enfoque basado en las necesidades básicas, el enfoque basado en los ingresos y el enfoque basado en la disponibilidad de alimentos (Iarna-Url, Iica y McGill, 2015).
+Esta definición es congruente con un enfoque integral de los medios de vida sostenibles en el análisis de la seguridad alimentaria y nutricional. No obstante, existen otros enfoques complementarios que pueden abstraerse de algunas dimensiones del sistema de seguridad alimentaria para entender mejor algún aspecto del mismo. Entonces existe el enfoque basado en las necesidades básicas, el enfoque basado en los ingresos y el enfoque basado en la disponibilidad de alimentos (Iarna-Url, Iica y McGill, 2015). El marco aquí propuesto se ubica bien en este último enfoque de disponibilidad de alimentos.
 
-El marco aquí propuesto se ubica bien en este último enfoque de disponibilidad y, aunque no profundiza en la distribución de ingreso de los hogares, sí ofrece valores agregados de sus niveles de gasto global por el acceso a alimentos.
+Hallazgos de la literatura económica muestran que los grupos de países que exhiben la niveles más severos de inseguridad alimentaria son aquellos con altos niveles de pobreza, pero con superávit considerable de alimentos (Saravia-Matus, Gomez y Mary, 2012). En este sentido la contraposición de la oferta y la demanda por parte de hogares propia del sistema que proponemos, tanto en términos físicos como monetarios, lo hacen apropiado para entender el funcionamiento de la producción y del acceso de los hogares a los alimentos con su poder de compra.
 
-Puede pensarse que la necesidad de un marco que trata la disponibilidad nacional de alimentos se hace innecesaria frente a los hallazgos de la literatura económica que afirman que los grupos países que exhiben la niveles más severos de inseguridad alimentaria son aquellos con altos niveles de pobreza, pero con superávit considerable de alimentos (Saravia-Matus, Gomez y Mary, 2012), pero existen beneficios de los marcos analíticos macroeconómicos extendidos que justifican su compilación.
+Consideramos apropiado enfocar esfuerzos en el aspecto macroeconómico de la Seguridad Alimentaria, debido a que esto complementa otros trabajos que se han desarrollado para comprender mejor este tema. Por una parte, se cuenta con el estudio
 
-Por una parte, el 
+ 
 
 ## Objetivos y definición de la cuenta
 
@@ -199,6 +199,10 @@ Es interesante que se encaminen esfuerzos para el desarrollo de estos cuadros en
 El cuadro 8 no obedece a los propuestos por la cuenta, pero muestra la evolución del indicador mencionado arriba durante el periodo 2002-2013. La tendencia, aunque baja ligeramente del año 2002 al 2003, ha sido creciente, alcanzando los 189 kilogramos por hectárea en 2010 y llegando a 256 kg/ha en 2013.
 
 [**Cuadro 8. Consumo de fertilizantes - Aproximadamente aquí**]
+
+
+"Supply, access and use of macro nutri- ents/fertilisers constitute another risk factor for agricultural production worldwide.  e scarcity of macro nutrients especially nitrogen and phosphorous is acknowledged in both policy and scienti c literature. Undersupply of nitrogen and phosphorus poses a critical constraint to yields in least developed regions. In the case of humid regions, nitrogen is leached to surface waters and groundwater. Ine cient N input to agriculture (too little or too much) leads to land degradation (SCAR, 2011). Phosphorus is the major non-renewa- ble and non-replaceable input to agriculture. Grain yields are highly sensitive to phospho- rus de ciency. Phosphorus is mainly lost from cropland by erosion and washed into rivers and the sea where it becomes lethal to coastal and marine ecosystems leading to the loss of freshwater as well (SCAR, 2011). A recent paper published by Keyzer (2010) addresses the issue of upcoming scarcity of phosphorus.  e author argues that the shortage of this macro-nutrient in the next 80 or 100 years (due to lack of recycling) will a ect not only yields but production costs in agriculture and other industries. In other words, phospho- rous scarcity will have an impact on rising food prices, growing food insecurity and wid- ening inequalities between rich and poor countries." (Saravia-Matus, Gomez, & Mary, 2012)
+
 
 En cuanto a nutrientes, además de uso e información de desperdicio, los datos del SCAE de Guatemala (Ine, 2012) no ofrecen información relevante. En ese caso, el esfuerzo más importante lo constituye la hoja de balance de alimentos (HBA) elaborada por el Instituto Nacional de Estadística para el año 2013. Nos abstenemos de reproducirla aquí, pues un importante trabajo es necesario para hacer compatible su información con la del Sistema de Cuentas Nacionales y así derivar utilidad adicional a la que el instrumento ya provee por si sola. No obstante, es importante mencionar que la HBA provee información sobre insumos, disponibilidad interna; pérdidas, mermas y desperdicios; utilización interna; alimento disponible por año en toneladas métricas; y finalmente suministro de alimentos y nutrientes por habitantes para:
 
