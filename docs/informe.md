@@ -205,6 +205,7 @@ El cuadro 8 no pertenece a los propuestos por la cuenta, pero muestra la evoluci
 
 Es importante comprender por qué el acceso y el uso a macro-nutrientes tiene importancia para la economía de la seguridad alimentaria. Uno de los insumos más importantes para la agricultura es el fósforo. Éste tiene la particularidad que no es renovable en el corto tiempo y  el rendimiento de los granos básicos son altamente susceptibles a una deficiencia de este macro-nutriente (Saravia-Matus, Gomez, & Mary, 2012). 
 
+
 En cuanto a nutrientes, además de uso e información de desperdicio, los datos del SCAE de Guatemala (Ine, 2012) no ofrecen información relevante. En ese caso, el esfuerzo más importante lo constituye la hoja de balance de alimentos (HBA) elaborada por el Instituto Nacional de Estadística para el año 2013. Nos abstenemos de reproducirla aquí, pues un importante trabajo es necesario para hacer compatible su información con la del Sistema de Cuentas Nacionales y así derivar utilidad adicional a la que el instrumento ya provee por si sola. No obstante, es importante mencionar que la HBA provee información sobre insumos, disponibilidad interna; pérdidas, mermas y desperdicios; utilización interna; alimento disponible por año en toneladas métricas; y finalmente suministro de alimentos y nutrientes por habitantes para:
 
 1.  cereales;
