@@ -23,9 +23,9 @@ Según el Comité de Seguridad Alimentaria Mundial (2012),
   
 Esta definición es congruente con un enfoque integral de los medios de vida sostenibles en el análisis de la seguridad alimentaria y nutricional. No obstante, existen otros enfoques complementarios que pueden abstraerse de algunas dimensiones del sistema de seguridad alimentaria para entender mejor algún aspecto del mismo. Entonces existe el enfoque basado en las necesidades básicas, el enfoque basado en los ingresos y el enfoque basado en la disponibilidad de alimentos (Iarna-Url, Iica y McGill, 2015). El marco aquí propuesto se ubica bien en este último enfoque de disponibilidad de alimentos.
 
-Hallazgos de la literatura económica muestran que los grupos de países que exhiben la niveles más severos de inseguridad alimentaria son aquellos con altos niveles de pobreza, pero con superávit considerable de alimentos (Saravia-Matus, Gomez y Mary, 2012). En este sentido la contraposición de la oferta y la demanda de alimentos propia del sistema que proponemos, tanto en términos físicos como monetarios, lo hacen apropiado para entender el funcionamiento de la producción y del acceso de los hogares a su alimentación y a su poder de compra.
+Hallazgos de la literatura económica muestran que los grupos de países que exhiben la niveles más severos de inseguridad alimentaria son aquellos con altos niveles de pobreza, pero con superávit considerable de alimentos (Saravia-Matus, Gomez y Mary, 2012). En este sentido la contraposición de la oferta y la demanda de alimentos propia del sistema que proponemos, tanto en términos físicos como monetarios, lo hacen apropiado para entender el funcionamiento de la producción y de las posibilidades de acceso de los hogares a alimentos.
 
-Consideramos apropiado enfocar esfuerzos en el aspecto macroeconómico de la Seguridad Alimentaria, debido a que esto complementa otros trabajos que se han desarrollado para comprender mejor este tema. Por una parte, se cuenta con el estudio
+Consideramos apropiado enfocar esfuerzos en el aspecto macroeconómico de la Seguridad Alimentaria, debido a que esto complementa otros trabajos que se han desarrollado para comprender mejor este tema. Por una parte, se cuenta con el estudio [**Insertar aquí nombre y cita del estudio de SAN de Iarna y McGill**] el cual ofrece una perspectiva de sistemas para comprender el estado de la Seguridad Alimentaria en Guatemala. Además, se encuentra próximo a publicación el [**Insertar aquí el nombre real del Compendio Estadístico de Seguridad Alimentaria**], una recopilación de información relevante para la Seguridad Alimentaria existente en el Sistema Estadístico Nacional. Otros esfuerzos importante lo constituyen la publicación del [**Poner aquí el nombre y cita del Censo de Peso y Talla**] y la recién procesada [**Poner aquí el nombre y cita de la Ensmi**]
 
  
 
@@ -108,7 +108,29 @@ De manera transversal, existen dominios de información relevante para la CAESAN
 
 [**Breve descripción de cada gran grupo**]
 
-**Productos agrícolas y activos relacionados:** El flujo para cultivos registra el suministro y el uso de productos en unidades físicas.
+**Productos agrícolas y activos relacionados:** El flujo para cultivos registra el suministro y el uso de productos de la agricultura en unidades físicas. En Guatemala es común el uso de quintales para la presentación de datos, pero aquí optamos por toneladas métricas por ser una unidad aceptada por el Sistema Internacional.
+
+Este registro de la producción, tanto de productos agrícolas en su estado natural, como de su forma procesada por las industrias alimenticias, permiten hacer vinculaciones importantes entre la economía del país y el consumo de los hogares de alimentos. Este ejercicio permite reconciliar datos de diferentes fuentes y mejorar la consistencia interna de los mismos al aplicar reglas contables.
+
+La información disponible en el Sistema de Cuentas Nacionales muestra información sobre un número grande de productos agrícolas y alimentos procesados. En este ejercicio hemos optado por mostrar esa desagregación completa, pero consideramos que esfuerzos de compilación más integrales de esta cuenta deberán concentrar su atención en productos claves para Seguridad Alimentaria.
+
+Los criterios de importancia pueden ser la contribución porcentual de un cultivo en la producción total de alimentos, el poder nutricional o la pertinencia cultural del cultivo, su contribución a la producción de bioenergía, su importancia en las exportaciones o importaciones, su uso de bienes y servicios naturales, entre otros.
+
+**Recursos hídricos y energéticos:**  Todas las actividades relacionadas con la producción agropecuaria dependen de manera esencial del agua. Esto también es cierto de las industrias, tanto las que procesan los alimentos, así como el resto de la economía, razón por la cual pueda existir competencia entre sectores en el uso de este recurso cada vez más escaso en calidad y cantidad.
+
+Estas conexiones y dependencias incrementan la presión sobre los recursos hídricos y es necesario entender las magnitudes en el uso de agua, para poder desarrollar políticas de ordenamiento en el uso que aseguren el nivel de actividad humana.
+
+No pretendemos que se elaboren nuevas contabilidades de agua específicas para los sectores agropecuarios y por eso recomendamos que simplemente se trasladen los hallazgos relevantes para estos sectores de la cuenta de recursos hídricos del SEEA y que en futuras entregas se utilice la metodología esbozada en el manual del [**Poner el nombre completo y la cita de SEEA Water (UN, 2012)**]
+
+En el caso de la energía, se registra el flujo energía de varios tipos, como la gasolina, el diesel, la leña, la electricidad, el bagazo de caña, entre otras, necesario para la producción de los productos agropecuarios y en algunos casos para su procesamiento en las industrias de producción de alimentos procesados.
+
+Una de las preocupaciones principales para la inclusión del tema energético en la producción de alimentos, es el creciente uso de productos agrícolas en la producción de biocombustibles y es deseable comprender mejor la magnitud de este uso que puede tener impactos sobre el precio o la disponibilidad de algunos productos para el consumo humano, principalmente en cuestiones de competencia por el uso del suelo.
+
+Otra de las razones por las cuales es importante conocer más sobre el uso de energía de los sectores agropecuarios y aquellos industriales relacionados con la producción de alimentos es que las magnitudes utilizadas pueden ser indicativas del grado técnico de la producción.
+
+Finalmente, dada la importancia para las emisiones de gases efecto invernadero que tiene el cambio de uso del suelo como soporte directo e indirecto a la producción de carne, es deseable entender mejor los tipos de energía utilizados por estos sectores, con el fin de determinar su contribución a temas como el cambio climático.
+
+
 
 <!--### Presentaciones combinadas
 
