@@ -231,8 +231,6 @@ El cuadro 8 no pertenece a los propuestos por la cuenta, pero muestra la evoluci
 
 [**Cuadro 8. Consumo de fertilizantes - Aproximadamente aquí**]
 
-
-
 En cuanto a nutrientes, además de uso e información de desperdicio, los datos del SCAE de Guatemala (Ine, 2012) no ofrecen información relevante. En ese caso, el esfuerzo más importante lo constituye la hoja de balance de alimentos (HBA) elaborada por el Instituto Nacional de Estadística para el año 2013. Nos abstenemos de reproducirla aquí, pues un importante trabajo es necesario para hacer compatible su información con la del Sistema de Cuentas Nacionales y así derivar utilidad adicional a la que el instrumento ya provee por si sola. No obstante, es importante mencionar que la HBA provee información sobre insumos, disponibilidad interna; pérdidas, mermas y desperdicios; utilización interna; alimento disponible por año en toneladas métricas; y finalmente suministro de alimentos y nutrientes por habitantes para:
 
 1.  cereales;
@@ -250,6 +248,7 @@ En cuanto a nutrientes, además de uso e información de desperdicio, los datos 
 
 La figura 3 muestra la evolución de la disponibilidad de calorías per cápita diarias provenientes de fuentes vegetales y fuentes animales. Muestra que a nivel nacional durante el periodo 2005-2013 los guatemaltecos obtuvieron un 87% de sus calorías de fuente vegetal y un 13% de fuente animal, en promedio, con un total de 2452 y 373 calorías per cápita diarias de la primera y segunda fuente, respectivamente.
 
+[**Figura 3. Consumo de fertilizantes - Aproximadamente aquí**]
 
 ### Otros datos económicos
 
