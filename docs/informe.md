@@ -1,7 +1,7 @@
 ---
 title: "Cuenta Ambiental y Económica para la Seguridad Alimentaria y Nutricional"
 author: "Renato Vargas y Jaime L. Carrera"
-css: css/main
+css: css/main.css
 
 ---
 
