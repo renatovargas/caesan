@@ -1,6 +1,6 @@
-	--
+---
 title: "Cuenta Ambiental y Económica para la Seguridad Alimentaria y Nutricional"
-author: "Renato Vargas"
+author: "Renato Vargas y Jaime L. Carrera"
 css: css/main
 
 ---
@@ -15,17 +15,17 @@ This is new.
 
 ## Introducción
 
-En este documento proponemos un marco de análisis macroeconómico para el estudio de la Seguridad Alimentaria a nivel nacional, el cual toma elementos del Sistema de Cuentas Nacionales (Banguat, 2009; 2016), el Sistema de Contabilidad Ambiental y Económica (Ine, 2013), del Sistema de Contabilidad Ambiental y Económica para la Agricultura, Silvicultura y Pesca (FAO, 2015) y de la experiencia de una década en contabilidad macroeconómica extendida del Instituto de Investigación y Proyección sobre Ambiente Natural y Sociedad (Iarna) de la Universidad Rafael Landívar.
+En este documento proponemos un marco de análisis macroeconómico para el estudio de la Seguridad Alimentaria a nivel nacional, el cual toma elementos del Sistema de Cuentas Nacionales (Banguat, 2007; 2016), el Sistema de Contabilidad Ambiental y Económica (Ine, 2013a; 2013b; UN, et al., 2014), del Sistema de Contabilidad Ambiental y Económica para la Agricultura, Silvicultura y Pesca (FAO, 2015) y de la experiencia de una década en contabilidad macroeconómica extendida del Instituto de Investigación y Proyección sobre Ambiente Natural y Sociedad (Iarna) de la Universidad Rafael Landívar.
 
 Según el Comité de Seguridad Alimentaria Mundial (2012),
 
   [e]xiste seguridad alimentaria y nutricional cuando todas las personas tienen en todo momento acceso físico, social y económico a alimentos inocuos, cuyo consumo es suficiente en términos de cantidad y calidad para satisfacer sus necesidades y preferencias alimentarias, y se sustenta en un marco de saneamiento, servicios sanitarios y cuidados adecuados que les permiten llevar una vida activa y sana.
   
-Esta definición es congruente con un enfoque integral de los medios de vida sostenibles en el análisis de la seguridad alimentaria y nutricional. No obstante, existen otros enfoques complementarios que pueden abstraerse de algunas dimensiones del sistema de seguridad alimentaria para entender mejor algún aspecto del mismo. Entonces existe el enfoque basado en las necesidades básicas, el enfoque basado en los ingresos y el enfoque basado en la disponibilidad de alimentos (Iarna-Url, Iica y McGill, 2015). El marco aquí propuesto se ubica bien en este último enfoque de disponibilidad de alimentos.
+Esta definición es congruente con un enfoque integral de los medios de vida sostenibles en el análisis de la seguridad alimentaria y nutricional. No obstante, existen otros enfoques complementarios que pueden abstraerse de algunas dimensiones del sistema de seguridad alimentaria para entender mejor algún aspecto del mismo. Entonces existe el enfoque basado en las necesidades básicas, el enfoque basado en los ingresos y el enfoque basado en la disponibilidad de alimentos (Iarna-Url, Iica, & McGill University, 2015). El marco aquí propuesto se ubica bien en este último enfoque de disponibilidad de alimentos.
 
-Hallazgos de la literatura económica muestran que los grupos de países que exhiben la niveles más severos de inseguridad alimentaria son aquellos con altos niveles de pobreza, pero con superávit considerable de alimentos (Saravia-Matus, Gomez y Mary, 2012). En este sentido la contraposición de la oferta y la demanda de alimentos propia del sistema que proponemos, tanto en términos físicos como monetarios, lo hacen apropiado para entender el funcionamiento de la producción y de las posibilidades de acceso de los hogares a alimentos.
+Hallazgos de la literatura económica muestran que los grupos de países que exhiben la niveles más severos de inseguridad alimentaria son aquellos con altos niveles de pobreza, pero con superávit considerable de alimentos (Saravia-Matus, Gomez, & Mary, 2012). En este sentido la contraposición de la oferta y la demanda de alimentos propia del sistema que proponemos, tanto en términos físicos como monetarios, lo hacen apropiado para entender el funcionamiento de la producción y de las posibilidades de acceso de los hogares a alimentos.
 
-Consideramos apropiado enfocar esfuerzos en el aspecto macroeconómico de la Seguridad Alimentaria, debido a que esto complementa otros trabajos que se han desarrollado para comprender mejor este tema. Por una parte, se cuenta con el estudio [**Insertar aquí nombre y cita del estudio de SAN de Iarna y McGill**] el cual ofrece una perspectiva de sistemas para comprender el estado de la Seguridad Alimentaria en Guatemala. Además, se encuentra próximo a publicación el [**Insertar aquí el nombre real del Compendio Estadístico de Seguridad Alimentaria**], una recopilación de información relevante para la Seguridad Alimentaria existente en el Sistema Estadístico Nacional. Otros esfuerzos importante lo constituyen la publicación del [**Poner aquí el nombre y cita del Censo de Peso y Talla**] y la recién procesada [**Poner aquí el nombre y cita de la Ensmi**]
+Consideramos apropiado enfocar esfuerzos en el aspecto macroeconómico de la Seguridad Alimentaria, debido a que esto complementa otros trabajos que se han desarrollado para comprender mejor este tema. Por una parte, se cuenta con el estudio "Análisis sistémico y nutricional de la seguridad alimentaria y nutricional en Guatemala: consideraciones para mejorar prácticas y políticas públicas Guatemala" (Iarna-Url, Iica, & McGill University, 2015), el cual ofrece una perspectiva de sistemas para comprender el estado de la Seguridad Alimentaria en Guatemala. Además, se encuentra próximo a publicación el Compendio Estadístico de Seguridad Alimentaria (Ine, s.f.), una recopilación de información relevante para la Seguridad Alimentaria existente en el Sistema Estadístico Nacional. Otros esfuerzos importante lo constituyen la publicación del "Cuarto censo nacional de talla en escolares del primer grado de educación primaria del sector público de la República de Guatemala 2015" (Mineduc, Cesan, & Ine) y la recién procesada "Encuesta Nacional de Salud Materno-Infantil 2014" (Ine, s.f.).
 
  
 
@@ -45,7 +45,7 @@ Explicar las relaciones recíprocas entre la producción de alimentos, su consum
 
 La Cuenta Ambiental y Económica para la Seguridad Alimentaria y Nutricional (CAESAN), es un marco estadístico de naturaleza macroeconómica que permite la interrelación de datos que describen cuantitativamente elementos de la cadena alimentaria. Su fin último es determinar de dónde provienen los alimentos que consumen los hogares guatemaltecos, qué bienes alimenticios son importantes, cómo se distribuyen los mismos entre el consumo final y como insumos en procesos productivos, así como los impactos al ambiente que puedan derivarse de su producción.
 
-Dicho marco es una extensión del Sistema de Cuentas Nacionales, con el cual se mide el desempeño de la economía con medidas como el Producto Interno Bruto, entre otras. Esta extensión de la contabilidad nacional básica se hace siguiendo las indicaciones de la familia de manuales del Sistema de Contabilidad Ambiental y Económica (SEEA), estándar estadístico propuesto por Naciones Unidas y toma elementos conceptuales propios de la seguridad alimentaria del Sistema de Contabilidad Ambiental y Económica para la Agricultura, Silvicultura y Pesca (SEEA Agri), manual específico comisionado por la Organización de las Naciones Unidas para la Alimentación y Agricultura (FAO).
+Dicho marco es una extensión del Sistema de Cuentas Nacionales (Banguat, 2007; 2013), con el cual se mide el desempeño de la economía con medidas como el Producto Interno Bruto, entre otras. Esta extensión de la contabilidad nacional básica se hace siguiendo las indicaciones de la familia de manuales del Sistema de Contabilidad Ambiental y Económica (SEEA) (UN et al., 2014), estándar estadístico propuesto por Naciones Unidas y toma elementos conceptuales propios de la seguridad alimentaria del Sistema de Contabilidad Ambiental y Económica para la Agricultura, Silvicultura y Pesca (FAO, 2015), manual específico comisionado por la Organización de las Naciones Unidas para la Alimentación y Agricultura (FAO).
 
 La CAESAN no modifica la estructura del Sistema de Cuentas Nacionales, sino la complementa de manera que sus definiciones y clasificaciones sean compatibles. De esa manera, se describen aspectos que son ajenos a la medición económica por su naturaleza, como la contribución de la producción alimentaria a la economía y a el consumo final de los hogares.
 
@@ -61,9 +61,7 @@ Las cuentas de la CAESAN se dividen en dos. Por una parte se tiene cuentas de fl
 
 **[Figura 1 – Esquema de cuentas de flujos, (cuadros de oferta y utilización)]**
 
-Las cuentas de flujos aseguran que la suma de todos los productos relacionados con la seguridad alimentaria producidos sea consistente con la cantidad de productos consumidos durante un período de tiempo[^1]. Esto facilita el análisis de factores de la demanda, como el incremento poblacional o la mejora de los medios de vida, que puedan impulsar cambios en la producción (FAO, 2015).
-
-[^1]: Tradicionalmente, el período de análisis ha correspondido a un año, pero en años recientes el Sistema de Cuentas Nacionales **_(Cita BANGUAT Cuentas Trimestrales)_**, con el cual se mide el desempeño económico, ha incursionado en el desarrollo de cuentas trimestrales. Estas tienen un alcance más limitado en cuanto a desagregación de actividades económicas, pero muestran gran potencial para dar signos de alerta temprana respecto de tendencias macroeconómicas que puedan tener impacto en la Seguridad Alimentaria en el corto y mediano plazo.
+Las cuentas de flujos aseguran que la suma de todos los productos relacionados con la seguridad alimentaria producidos sea consistente con la cantidad de productos consumidos durante un período de tiempo. Esto facilita el análisis de factores de la demanda, como el incremento poblacional o la mejora de los medios de vida, que puedan impulsar cambios en la producción (FAO, 2015).
 
 Es importante distinguir entre dos tipos de flujos. Primeramente, se tiene aquellos flujos físicos de productos agrícolas o de insumos no naturales, como los fertilizantes químicos los cuales siguen a su contraparte monetaria, descrita en el Sistema de Cuentas Nacionales (Banguat, 2009).
 
@@ -120,7 +118,7 @@ Los criterios de importancia pueden ser la contribución porcentual de un cultiv
 
 Estas conexiones y dependencias incrementan la presión sobre los recursos hídricos y es necesario entender las magnitudes en el uso de agua, para poder desarrollar políticas de ordenamiento en el uso que aseguren el nivel de actividad humana.
 
-No pretendemos que se elaboren nuevas contabilidades de agua específicas para los sectores agropecuarios y por eso recomendamos que simplemente se trasladen los hallazgos relevantes para estos sectores de la cuenta de recursos hídricos del SEEA y que en futuras entregas se utilice la metodología esbozada en el manual del [**Poner el nombre completo y la cita de SEEA Water (UN, 2012)**]
+No pretendemos que se elaboren nuevas contabilidades de agua específicas para los sectores agropecuarios y por eso recomendamos que simplemente se trasladen los hallazgos relevantes para estos sectores de la cuenta de recursos hídricos del SEEA y que en futuras entregas se utilice la metodología esbozada en el manual del SEEA dedicado especialmente al agua (UN, 2012).
 
 En el caso de la energía, se registra el flujo energía de varios tipos, como la gasolina, el diesel, la leña, la electricidad, el bagazo de caña, entre otras, necesario para la producción de los productos agropecuarios y en algunos casos para su procesamiento en las industrias de producción de alimentos procesados.
 
@@ -130,20 +128,19 @@ Otra de las razones por las cuales es importante conocer más sobre el uso de en
 
 Finalmente, dada la importancia para las emisiones de gases efecto invernadero que tiene el cambio de uso del suelo como soporte directo e indirecto a la producción de carne, es deseable entender mejor los tipos de energía utilizados por estos sectores, con el fin de determinar su contribución a temas como el cambio climático.
 
-**Fertilizantes y nutrientes:** En el caso de los fertilizantes, el manual del SEEA Agri (FAO 2015) propone la necesidad de llevar un registro de los mismos porque son insumos fundamentales en la producción agrícolas actual y su uso tiene implicaciones económicas importantes. Saber más sobre estos usos permite evaluar de mejor manera los méritos de las prácticas de producción que no involucran fertilizantes y pesticidas manufacturados como la producción orgánica.
+**Fertilizantes y nutrientes:** En el caso de los fertilizantes, el manual del SEEA Agri (FAO, 2015) propone la necesidad de llevar un registro de los mismos porque son insumos fundamentales en la producción agrícolas actual y su uso tiene implicaciones económicas importantes. Saber más sobre estos usos permite evaluar de mejor manera los méritos de las prácticas de producción que no involucran fertilizantes y pesticidas manufacturados como la producción orgánica.
 
 Una proporción importante de fertilizantes o de los insumos para su producción provienen de la importación. Por esta razón, también es valioso analizar grados de dependencia de estos elementos de nuestros socios comerciales, con el fin de poder planificar adecuadamente reacciones de emergencia ante desastres naturales o crisis económicas regionales o globales que afecten los niveles generales de precios de estos productos.
 
-Es importante comprender por qué el acceso y el uso a macro-nutrientes tiene importancia para la economía de la seguridad alimentaria. Uno de los insumos más importantes para la agricultura es el fósforo. Éste tiene la particularidad que no es renovable en el corto tiempo y  el rendimiento de los granos básicos son altamente susceptibles a una deficiencia de este macro-nutriente (Saravia-Matus, Gomez, & Mary, 2012). El fósforo se pierde primordialmente por erosión y drena hacia ríos y otros cuerpos de agua en donde es letal para los ecosistemas marinos. Keyzer (2010) **[Poner cita de Keyzer]** sugiere que la escasez de este macro-nutriente en los próximos 80 a 100 años va a tener impactos relevantes en los niveles de precios de la agricultura, y por ende en el aumento de las desigualdades entre países desarrollados y en desarrollo. De igual manera, el insumo ineficiente de Nitrógeno ocasiona limitaciones considerables al rendimiento agrícola en regiones con menores niveles de desarrollo (Matus et al., 2012). 
+Es importante comprender por qué el acceso y el uso a macro-nutrientes tiene importancia para la economía de la seguridad alimentaria. Uno de los insumos más importantes para la agricultura es el fósforo. Éste tiene la particularidad que no es renovable en el corto tiempo y  el rendimiento de los granos básicos son altamente susceptibles a una deficiencia de este macro-nutriente (Saravia-Matus, Gomez, & Mary, 2012). El fósforo se pierde primordialmente por erosión y drena hacia ríos y otros cuerpos de agua en donde es letal para los ecosistemas marinos. Keyzer (2010) sugiere que la escasez de este macro-nutriente en los próximos 80 a 100 años va a tener impactos relevantes en los niveles de precios de la agricultura, y por ende en el aumento de las desigualdades entre países desarrollados y en desarrollo. De igual manera, el insumo ineficiente de Nitrógeno ocasiona limitaciones considerables al rendimiento agrícola en regiones con menores niveles de desarrollo (Matus et al., 2012). 
 
-**Tierra:**
-
-Siguiendo las recomendaciones del SEEA AFF en cuanto a tierra se hace la distinción entre uso y cobertura. El uso se refiere a las actividades que toman lugar sobre un determinado territorio, aunado a los arreglos económicos que puedan existir para su desarrollo económico o para su recuperación y protección. Por otra parte, la cobertura se refiere a las características físicas y biológicas observadas sobre la superficie terrestre, las cuales incluyen la vegetación natural y las superficies abióticas, (FAO, 2015).
+**Tierra:** Siguiendo las recomendaciones del manual de FAO en cuanto a tierra se hace la distinción entre uso y cobertura. El uso se refiere a las actividades que toman lugar sobre un determinado territorio, aunado a los arreglos económicos que puedan existir para su desarrollo económico o para su recuperación y protección. Por otra parte, la cobertura se refiere a las características físicas y biológicas observadas sobre la superficie terrestre, las cuales incluyen la vegetación natural y las superficies abióticas, (FAO, 2015).
 
 Para los fines de la Seguridad Alimentaria y Nutricional, la información de las dos distinciones es relevante, pues el uso permite la comprensión de aspectos esenciales de la producción agrícola, su intensidad y su valor para la disponibilidad de alimentos. Por otra parte la comprensión de la cobertura permite hacer apreciaciones importantes sobre el impacto de la agricultura sobre el bienestar de las ecorregiones del país y, en cierta medida, de las amenazas a los ecosistemas (FAO, 2015).
 
-**Otros datos económicos:**
+**Otros datos económicos:** Es importante destacar que uno de los fundamentales propósitos de toda la serie de marcos analíticos que dan soporte a la Caesan es precisamente la vinculación de los diferentes temas ambientales a la economía, para dar herramientas económicas de decisión para su manejo sostenible y su recuperación. Esto no es distinto de la Seguridad Alimentaria, dado su importante vínculo con la producción agrícola.
 
+Por esta razón se destacan para cada sector involucrado en la cadena alimentaria su contribución al valor agregado nacional y sus requerimientos de empleo. También se observan las distribuciones primarias del ingreso de dichos sectores, es decir, como se reparte el valor generado por el proceso económico entre propietarios (excedente de explotación neto), trabajadores por cuenta propia (ingreso mixto neto), los empleados (sueldos y salarios) y el gobierno (impuestos).
 
 
 <!-- ### Presentaciones combinadas
@@ -270,22 +267,51 @@ Respecto de otros indicadores económicos, el cuadro 11 muestra las cuentas de p
 
 ## Discusión y conclusiones
 
-En el presente documento se describe una propuesta para un marco de compilación de información y análisis macroeconómico enfocado en el tema de la Seguridad Alimentaria y Nutricional. El mismo toma conceptos y definiciones de la Contabilidad Nacional, la Contabilidad Ambiental y Económica integrada, así como de la Contabilidad Ambiental y Económica para Agricultura, Silvicultura y Pesca propuestos por Naciones Unidas, FAO y otros.
+En el presente documento se describe una propuesta para un marco de compilación de información y análisis macroeconómico llamado Caesan, el cual está enfocado en el tema de la Seguridad Alimentaria y Nutricional. El mismo toma conceptos y definiciones de la Contabilidad Nacional, la Contabilidad Ambiental y Económica integrada, así como de la Contabilidad Ambiental y Económica para Agricultura, Silvicultura y Pesca propuestos por Naciones Unidas, FAO y otros.
 
 Además con la información existente en los sistemas ya implementados por Guatemala, se toma inventario de los alcances posibles en este tema y se describen interesantes hallazgos preliminares.
 
-La CAESAN es un instrumento para evaluar la disponibilidad total de ciertos alimentos e insumos a nivel nacional y, aunque la literatura económica afirma que en general en los países no existe un problema de disponibilidad sino de distribución de los alimentos, siempre es ilustrativo para la política pública conocer las magnitudes que se mueven entre la oferta y la utilización tanto intermedia como final de los alimentos. Además, es ilustrativo entender la distribución de ciertos alimentos entre los que se consumen directamente y aquellos que tienen importantes componentes de procesamiento industrial con el fin de diseñar mejores políticas públicas.
-
-**(...)**
-
-Cabe notar que en la penúltima categoría se encuentran los frijoles volteados en lata y otras presentaciones, los cuales cobran importancia en las cocinas urbanas guatemaltecas.
-
-Entre los datos de productos alimenticios, resulta extraño y ciertamente es de esperar que esto constituya un error de estimación, que varios productos que tienen mercado local se destinen en su totalidad a la exportación, como es el caso del aceite vegetal, la margarina y preparados análogos, los preparados utilizados para la alimentación de animales, el pan, otros productos de panadería, el azúcar de caña sin refinar y la melaza.
+La CAESAN es un instrumento para evaluar la disponibilidad total de ciertos alimentos e insumos a nivel nacional y, aunque la literatura económica afirma que en general en los países no existe un problema de disponibilidad sino de distribución de los alimentos, es ilustrativo para la política pública conocer las magnitudes que se mueven entre la oferta y la utilización tanto intermedia como final de los alimentos. Además, es ilustrativo entender la distribución de ciertos alimentos entre los que se consumen directamente y aquellos que tienen importantes componentes de procesamiento industrial con el fin de diseñar mejores políticas públicas de acceso económico a los alimentos.
 
 La producción de maíz se realiza completamente dependiendo del agua de lluvia y de los aspectos negativos que pueda acarrear la variabilidad climática. El depender exclusivamente del agua de lluvia, le confiere a la cultura de producción de maíz un elemento importante de riesgo. Esto es importante contrastarlo con el hecho que en términos volumétricos, es el mayor cultivo del país, después de la producción agroindustrial de caña de azúcar y banano, además de la obvia relación cultural entre el maíz y la dieta de los guatemaltecos.
 
-Algo que no está presente en el cuadro 6 es la calidad de la tierra y su rendimiento. El bajo rendimiento de las tierras destinadas a la producción de maíz y frijol, aunado a menores niveles técnicos de producción y poco uso de riego, ofrecen una explicación a las necesidades considerables de tierra para su producción.
+El mismo argumento de la exposición climática a elementos de riesgo puede hacerse del frijol, como cultivo esencial de la dieta de los guatemaltecos. Además, es importante  notar la creciente importancia de las legumbres enlatadas, categoría en la cual se encuentran los frijoles volteados en varias presentaciones, Al parecer, estos cobran importancia en las cocinas urbanas guatemaltecas, lo cual resalta la relevancia económica en la cadena alimentaria de los sectores industriales que producen estos enlatados.
+
+También es relevante notar la magnitud en el uso de tierra del frijol y el maíz, a pesar que los cuadros a nivel nacional no muestren necesariamente consideraciones de calidad de esa tierra. El bajo rendimiento de las tierras destinadas a la producción de estos cultivos, aunado a menores niveles técnicos de producción y poco uso de riego, ofrecen una explicación a las necesidades considerables de tierra para su producción.
+
+Entre los datos de productos alimenticios, resulta extraño y ciertamente es de esperar que esto constituya un error de estimación o de compilación, que varios productos que tienen mercado local se destinen en su totalidad a la exportación, como es el caso del aceite vegetal, la margarina y preparados análogos, los preparados utilizados para la alimentación de animales, el pan, otros productos de panadería, el azúcar de caña sin refinar y la melaza. Esto es importante pues ayuda al mejoramiento, no solo de la Caesan, sino del mismo Sistema de Cuentas Nacionales.
 
 El hecho que los hogares consuman el 40% del uso total de energía del país en forma de leña tiene implicaciones muy importantes para la seguridad alimentaria del país, pues ese producto es evidentemente el principal combustible utilizado para la cocción de alimentos. Esto es evidente por el considerable menor uso de gas licuado de petróleo y de electricidad por parte de los hogares (posibles alternativas para la cocción de alimentos).
 
-## Bibliografía
+El sistema y los hallazgos presentados aquí necesariamente no constituyen un producto final, sino una propuesta inicial para una discusión sobre los mecanismos que permitan al Sistema Estadístico Nacional generar y sistematizar datos más valiosos para el desarrollo de políticas públicas relevantes para la seguridad alimentaria y nutricional. Esperamos que las instituciones involucradas en el análisis, mejoramiento, regulación, producción y consumo en los diferentes niveles de la cadena alimentaria se sumen a esta discusión.
+
+# Bibliografía
+
+BANGUAT [Banco de Guatemala] (2007). Sistema de Cuentas Nacionales 1993 –SCN93– Año base 2001 (Aspectos Metodológicos). Tomo I. Guatemala: Banco de Guatemala.
+
+BANGUAT [Banco de Guatemala] (2013). Sistema de Cuentas Nacionales 1993 –SCN93– Año base 2001. Tomo II. Guatemala: Banco de Guatemala.
+
+Comité de Seguridad Alimentaria Mundial. (2012). En buenos términos con la terminología. Roma: Comité de Seguridad Alimentaria Mundial.
+
+FAO [Food and Agriculture Organization of the United Nations] (2015). "Towards a System of Environmental-Economic Accounting 2015. Agriculture, Forestry and Fisheries." Rome: autor.
+
+Iarna-Url, Iica, & McGill University [Instituto de Investigación y Proyección sobre Ambiente Natural y Sociedad de la Universidad Rafael Landívar, Instituto Interamericano de Cooperación para la Agricultura & McGill University] (2015). Análisis sistémico y nutricional de la seguridad alimentaria y nutricional en Guatemala : consideraciones para mejorar prácticas y políticas públicas Guatemala: Editorial Cara Parens.
+
+INE [Instituto Nacional de Estadística] (2013a). Sistema de Contabilidad Ambiental y Económica de Guatemala 2001-2010: Compendio Estadístico. Tomo I. Guatemala: Instituto Nacional de Estadística.
+
+INE [Instituto Nacional de Estadística] (2013b). Sistema de Contabilidad Ambiental y Económica de Guatemala 2001-2010: Compendio Estadístico. Tomo II. Guatemala: Instituto Nacional de Estadística.
+
+INE [Instituto Nacional de Estadística] (s.f.). Compendio Estadístico de Seguridad Alimentaria y Nutricional. Guatemala: Instituto Nacional de Estadística.
+
+INE [Instituto Nacional de Estadística] (s.f.). Encuesta nacional de saludo materno-infantil 2014. Guatemala: Instituto Nacional de Estadística.
+
+Keyzer, M. (2010). Towards a closed phosphorus cycle. The Economist, 158, 411–425.
+
+Mineduc, Sesan, & Ine [Ministerio de Educación de Guatemala; Secretaría de Seguridad Alimentaria y Nutricional de la Presidencia de la República; & Instituto Nacional de Estadística] (2015). Cuarto censo nacional de talla en escolares del primer grado de educación primaria del sector público de la República de Guatemala 2015. Informe Ejecutivo. Guatemala: autores.
+
+Saravia-Matus, Silvia; Gómez y Paloma, Sergio; & Mary, Sébastien (2012) "Economics of Food Security: Selected Issues." Bio-based and Applied Economics 1(1): 65-80. Firenze: Firenze University Press.
+
+UN [United Nations] (2012). System of Environmental-Economic Accounting for Water. New York: United Nations.
+
+UN [United Nations] (2014). System of Environmental-Economic Accounting 2012—Central Framework. New York: United Nations,European Union,Food and Agriculture Organization of the United Nations, International Monetary Fund, Organisation for Economic Co-operation and Development, The World Bank.
+
