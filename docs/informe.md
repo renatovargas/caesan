@@ -248,7 +248,7 @@ En cuanto a nutrientes, además de uso e información de desperdicio, los datos 
 
 La figura 3 muestra la evolución de la disponibilidad de calorías per cápita diarias provenientes de fuentes vegetales y fuentes animales. Muestra que a nivel nacional durante el periodo 2005-2013 los guatemaltecos obtuvieron un 87% de sus calorías de fuente vegetal y un 13% de fuente animal, en promedio, con un total de 2452 y 373 calorías per cápita diarias de la primera y segunda fuente, respectivamente.
 
-[**Figura 3. Consumo de fertilizantes - Aproximadamente aquí**]
+[**Figura 3. Disponibilidad de calorías totales - Aproximadamente aquí**]
 
 ### Otros datos económicos
 
