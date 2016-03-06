@@ -1,7 +1,7 @@
----
+	--
 title: "Cuenta Ambiental y Económica para la Seguridad Alimentaria y Nutricional"
 author: "Renato Vargas"
-css: css/main.css
+css: css/main
 
 ---
 
@@ -130,9 +130,23 @@ Otra de las razones por las cuales es importante conocer más sobre el uso de en
 
 Finalmente, dada la importancia para las emisiones de gases efecto invernadero que tiene el cambio de uso del suelo como soporte directo e indirecto a la producción de carne, es deseable entender mejor los tipos de energía utilizados por estos sectores, con el fin de determinar su contribución a temas como el cambio climático.
 
+**Fertilizantes y nutrientes:** En el caso de los fertilizantes, el manual del SEEA Agri (FAO 2015) propone la necesidad de llevar un registro de los mismos porque son insumos fundamentales en la producción agrícolas actual y su uso tiene implicaciones económicas importantes. Saber más sobre estos usos permite evaluar de mejor manera los méritos de las prácticas de producción que no involucran fertilizantes y pesticidas manufacturados como la producción orgánica.
+
+Una proporción importante de fertilizantes o de los insumos para su producción provienen de la importación. Por esta razón, también es valioso analizar grados de dependencia de estos elementos de nuestros socios comerciales, con el fin de poder planificar adecuadamente reacciones de emergencia ante desastres naturales o crisis económicas regionales o globales que afecten los niveles generales de precios de estos productos.
+
+Es importante comprender por qué el acceso y el uso a macro-nutrientes tiene importancia para la economía de la seguridad alimentaria. Uno de los insumos más importantes para la agricultura es el fósforo. Éste tiene la particularidad que no es renovable en el corto tiempo y  el rendimiento de los granos básicos son altamente susceptibles a una deficiencia de este macro-nutriente (Saravia-Matus, Gomez, & Mary, 2012). El fósforo se pierde primordialmente por erosión y drena hacia ríos y otros cuerpos de agua en donde es letal para los ecosistemas marinos. Keyzer (2010) **[Poner cita de Keyzer]** sugiere que la escasez de este macro-nutriente en los próximos 80 a 100 años va a tener impactos relevantes en los niveles de precios de la agricultura, y por ende en el aumento de las desigualdades entre países desarrollados y en desarrollo. De igual manera, el insumo ineficiente de Nitrógeno ocasiona limitaciones considerables al rendimiento agrícola en regiones con menores niveles de desarrollo (Matus et al., 2012). 
+
+**Tierra:**
+
+Siguiendo las recomendaciones del SEEA AFF en cuanto a tierra se hace la distinción entre uso y cobertura. El uso se refiere a las actividades que toman lugar sobre un determinado territorio, aunado a los arreglos económicos que puedan existir para su desarrollo económico o para su recuperación y protección. Por otra parte, la cobertura se refiere a las características físicas y biológicas observadas sobre la superficie terrestre, las cuales incluyen la vegetación natural y las superficies abióticas, (FAO, 2015).
+
+Para los fines de la Seguridad Alimentaria y Nutricional, la información de las dos distinciones es relevante, pues el uso permite la comprensión de aspectos esenciales de la producción agrícola, su intensidad y su valor para la disponibilidad de alimentos. Por otra parte la comprensión de la cobertura permite hacer apreciaciones importantes sobre el impacto de la agricultura sobre el bienestar de las ecorregiones del país y, en cierta medida, de las amenazas a los ecosistemas (FAO, 2015).
+
+**Otros datos económicos:**
 
 
-<!--### Presentaciones combinadas
+
+<!-- ### Presentaciones combinadas
 
 Una de las ventajas de un sistema integrado de información macroeconómica es la posibilidad del desarrollo de presentaciones combinadas en las cuales puede coexistir información de diferentes ámbitos. Esto es particularmente importante para apreciar los diferentes impactos naturales y sociales que ocurren de manera conectada con el desempeño económico, pero que no son evidentes en la formas en que se evalúa el mismo. De esta forma, existe una variedad de temas que se pueden analizar para encontrar contrastes relevantes para la política pública.
 
@@ -212,9 +226,7 @@ Más relevante, resulta el hecho que los hogares consumen el 40% de la energía 
 
 ### Fertilizantes y nutrientes
 
-En el caso de los fertilizantes, el manual del SEEA Agri (FAO 2015) propone la necesidad de llevar un registro de los mismos porque son insumos fundamentales en la producción agrícolas actual y su uso tiene implicaciones económicas importantes. Saber más sobre estos usos permite evaluar de mejor manera los méritos de las prácticas de producción que no involucran fertilizantes y pesticidas manufacturados como la producción orgánica. 
-
-Es interesante que se encaminen esfuerzos para el desarrollo de estos cuadros en un futuro, pues actualmente se cuenta con información agregada proveniente de estimaciones de FAO. El indicador utilizado de consumo de fertilizantes utiliza la siguiente definición:
+En el caso de los fertilizantes es importante que se encaminen esfuerzos para el desarrollo de los cuadros propuestos por la cuenta en un futuro, pues actualmente se cuenta con información agregada proveniente de estimaciones de FAO. El indicador utilizado de consumo de fertilizantes utiliza la siguiente definición:
 
   "El consumo de fertilizantes (100 gramos por hectárea de tierra cultivable) mide la cantidad de elementos nutritivos de las plantas por unidad de tierra cultivable. Los productos fertilizantes abarcan los fertilizantes nitrogenados, el abono potásico y los fertilizantes fosfatados (por ejemplo, la fosforita molida). No se incluyen los nutrientes tradicionales (abono animal y vegetal). Con el fin de difundir los datos, la FAO ha adoptado el concepto de año civil (enero a diciembre). Algunos países compilan datos de fertilizantes según el año civil, mientras que otros lo hacen de acuerdo con el año dividido. La tierra cultivable incluye aquellos terrenos definidos por la FAO como afectados a cultivos temporales (las zonas de doble cosecha se cuentan una sola vez), los prados temporales para segar o para pasto, las tierras cultivadas como huertos comerciales o domésticos, y las tierras temporalmente en barbecho. Se excluyen las tierras abandonadas a causa del cultivo migratorio." (FAO 2016)
   
@@ -222,10 +234,6 @@ El cuadro 8 no pertenece a los propuestos por la cuenta, pero muestra la evoluci
 
 [**Cuadro 8. Consumo de fertilizantes - Aproximadamente aquí**]
 
-
-"Supply, access and use of macro nutri- ents/fertilisers constitute another risk factor for agricultural production worldwide.  e scarcity of macro nutrients especially nitrogen and phosphorous is acknowledged in both policy and scienti c literature. Undersupply of nitrogen and phosphorus poses a critical constraint to yields in least developed regions. In the case of humid regions, nitrogen is leached to surface waters and groundwater. Ine cient N input to agriculture (too little or too much) leads to land degradation (SCAR, 2011). Phosphorus is the major non-renewa- ble and non-replaceable input to agriculture. Grain yields are highly sensitive to phospho- rus de ciency. Phosphorus is mainly lost from cropland by erosion and washed into rivers and the sea where it becomes lethal to coastal and marine ecosystems leading to the loss of freshwater as well (SCAR, 2011). A recent paper published by Keyzer (2010) addresses the issue of upcoming scarcity of phosphorus.  e author argues that the shortage of this macro-nutrient in the next 80 or 100 years (due to lack of recycling) will a ect not only yields but production costs in agriculture and other industries. In other words, phospho- rous scarcity will have an impact on rising food prices, growing food insecurity and wid- ening inequalities between rich and poor countries." (Saravia-Matus, Gomez, & Mary, 2012)
-
-Es importante comprender por qué el acceso y el uso a macro-nutrientes tiene importancia para la economía de la seguridad alimentaria. Uno de los insumos más importantes para la agricultura es el fósforo. Éste tiene la particularidad que no es renovable en el corto tiempo y  el rendimiento de los granos básicos son altamente susceptibles a una deficiencia de este macro-nutriente (Saravia-Matus, Gomez, & Mary, 2012). 
 
 
 En cuanto a nutrientes, además de uso e información de desperdicio, los datos del SCAE de Guatemala (Ine, 2012) no ofrecen información relevante. En ese caso, el esfuerzo más importante lo constituye la hoja de balance de alimentos (HBA) elaborada por el Instituto Nacional de Estadística para el año 2013. Nos abstenemos de reproducirla aquí, pues un importante trabajo es necesario para hacer compatible su información con la del Sistema de Cuentas Nacionales y así derivar utilidad adicional a la que el instrumento ya provee por si sola. No obstante, es importante mencionar que la HBA provee información sobre insumos, disponibilidad interna; pérdidas, mermas y desperdicios; utilización interna; alimento disponible por año en toneladas métricas; y finalmente suministro de alimentos y nutrientes por habitantes para:
