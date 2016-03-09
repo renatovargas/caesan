@@ -203,7 +203,7 @@ Pero más importante que la entender la oferta de alimentos para cuestiones de s
 
 ### Recursos hídricos, energéticos y de tierra
 
-Asegurar la producción de alimentos también requiere que se asegure la disponibilidad en las diferentes etapas de crecimiento de los cultivos. El **Cuadro 6** Muestra los diferentes requerimientos tanto de tierra, como de las diferentes formas de proveer agua a los cultivos. Estos datos provienen de la cuenta de agua (ver Ine 2012, Banguat/Url-Iarna, 2009a). Entre los usos de agua, se hace la importante distinción entre el riego y la agricultura de secano. En el primero de los casos, los productores deben asegurar la disponibilidad de agua de suficiente calidad para la producción del cultivo. En el caso de la agricultura de secano, el productor depende de la disponibilidad de agua de lluvia, el ciclo hidrológico y la variabilidad climática.
+Asegurar la producción de alimentos también requiere que se asegure la disponibilidad de agua en las diferentes etapas de crecimiento de los cultivos. El **Cuadro 6** Muestra los diferentes requerimientos tanto de tierra, como de las diferentes formas de proveer agua a los cultivos. Estos datos provienen de la cuenta de agua (ver Ine 2012, Banguat/Url-Iarna, 2009a). Entre los usos de agua, se hace la importante distinción entre el riego y la agricultura de secano. En el primero de los casos, los productores deben asegurar la disponibilidad de agua de suficiente calidad para la producción del cultivo. En el caso de la agricultura de secano, el productor depende de la disponibilidad de agua de lluvia, el ciclo hidrológico y la variabilidad climática.
 
 [**Cuadro 6. Utilización de tierra y agua para cultivo - Aproximadamente aquí**]
 
