@@ -286,7 +286,7 @@ El sistema y los hallazgos presentados aquí necesariamente no constituyen un pr
 
 # Bibliografía
 
-BANGUAT [Banco de Guatemala] (2007). Sistema de Cuentas Nacionales 1993 –SCN93– Año base 2001 (Aspectos Metodológicos). Tomo I. Guatemala: Banco de Guatemala.
+BANGUAT \[Banco de Guatemala\] (2007). Sistema de Cuentas Nacionales 1993 –SCN93– Año base 2001 (Aspectos Metodológicos). Tomo I. Guatemala: Banco de Guatemala.
 
 BANGUAT [Banco de Guatemala] (2013). Sistema de Cuentas Nacionales 1993 –SCN93– Año base 2001. Tomo II. Guatemala: Banco de Guatemala.
 
